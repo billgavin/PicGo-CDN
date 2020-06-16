@@ -1,0 +1,2 @@
+# PicGo-CDN
+jsDeliver CDN
